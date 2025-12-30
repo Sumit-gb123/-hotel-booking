@@ -22,6 +22,7 @@ GitHub
 🛠 Technologies Used
 Layer	Technology	Purpose
 Frontend	React	Building the user interface
+
 	Vite	Fast build tool for React app
 	CSS / UI libraries	Styling components
 Backend	Node.js	Server environment
