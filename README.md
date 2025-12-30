@@ -19,19 +19,29 @@ GitHub
 
 (If more features are implemented in your version, include them when writing your own summary.)
 
-🛠 Technologies Used
-Layer	Technology	Purpose
-Frontend	React	Building the user interface
+Technologies Used
 
-	Vite	Fast build tool for React app
-	CSS / UI libraries	Styling components
-Backend	Node.js	Server environment
-	Express.js	REST API handling
-Database	MongoDB	NoSQL database to store users, hotels, bookings
-Authentication	JWT / Secure login	For secure user sessions
-Deployment	Vercel	Frontend live deployment
-	(Optional) Render / Railway	Backend deployment
-Others	Axios / Fetch	API communication
+React.js – For building a responsive and interactive user interface
+
+Vite – Fast development server and build tool for the React application
+
+Node.js – JavaScript runtime for backend development
+
+Express.js – RESTful API development and server-side routing
+
+MongoDB – NoSQL database to store user, hotel, and booking data
+
+JWT (JSON Web Tokens) – Secure user authentication and authorization
+
+Axios / Fetch API – Handling frontend-to-backend API communication
+
+CSS / UI Styling – Styling and layout of the application
+
+Vercel – Deployment of the frontend application
+
+MongoDB Atlas – Cloud database hosting
+
+
 # React + Vite
 Live Demo (Vercel): https://stayza.vercel.app/
 
